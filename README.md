@@ -1,6 +1,6 @@
 ### Oi, eu sou a Paloma! 👋
 
-- 🌱 Estou estudando Java com objetivo de me tornar desenvolvedora Fullstack
+- 🌱 Estudando Java com objetivo de me tornar desenvolvedora Fullstack
 - 🎓 Gestão da Tecnologia da Informação na Anhembi Morumbi 
 - 😄 Pronouns: ela/dela
 
